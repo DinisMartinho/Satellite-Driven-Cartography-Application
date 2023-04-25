@@ -1,6 +1,6 @@
 # Pix2Pix: AI Powered Sattelite Mapping Tool
 
-This [Pix2Pix paper](https://arxiv.org/abs/1611.07004v3) implementation is based on the YouTube video tutorial by Aladdin Persson, with slight modifications. It includes pre-trained weights and the required training loop, discriminator, and inference code blocks for running and testing the model. With this implementation, users can easily train and test the Pix2Pix model for image-to-image translation tasks.
+This [Pix2Pix paper](https://arxiv.org/abs/1611.07004v3) implementation is based on the YouTube video tutorial by Aladdin Persson, with slight modifications. It includes pre-trained weights and the required generator, training loop, discriminator, and inference code blocks for running and testing the model. With this implementation, users can easily train and test the Pix2Pix model for image-to-image translation tasks.
 
 <h2 align="center"></h1>
 
