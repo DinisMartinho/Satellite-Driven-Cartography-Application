@@ -6,6 +6,8 @@ This **[Pix2Pix paper](https://arxiv.org/abs/1611.07004v3)** implementation is b
 
 <p float="left" align="middle">
   <img src="https://media.discordapp.net/attachments/1099355697671569408/1100487535966298142/transferir.png" width="100%" hspace="0"/>
+  <img src="https://media.discordapp.net/attachments/1099355697671569408/1100487535563649064/transferir_2.png" width="100%" hspace="0"/>
+  <img src="https://media.discordapp.net/attachments/1099355697671569408/1100487536436072498/transferir_1.png" width="100%" hspace="0"/>
 </p>
 </p>
 <p float="left" align="middle">
